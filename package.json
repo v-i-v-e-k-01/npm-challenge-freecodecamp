@@ -1,6 +1,6 @@
 {
-	"author":"Vivek Dhanade",
 	"name": "fcc-learn-npm-package-json",
+	"author":"Vivek Dhanade",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
